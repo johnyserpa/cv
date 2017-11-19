@@ -2,7 +2,7 @@
   "basics": {
     "name": "Johny Serpa",
     "label": "Web Developer",
-    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfRAAAAJGM2ZjJhYzA3LTdiNWMtNDdhZC05NWFiLTExZmEwNjEwNzE5Yg.jpg",
+    "picture": "./assets/jserpa2.png",
     "email": "jserpa.dev@gmail.com",
     "phone": "(+351) 93 572 82 05",
     "website": "http://odopeyone.xyz",
