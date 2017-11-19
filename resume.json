@@ -122,6 +122,14 @@
   "awards": [],
   "publications": [],
   "skills": [
+  	{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS"
+      ]
+    },
     {
       "name": "JavaScript",
       "level": "Master",
@@ -135,7 +143,36 @@
       "name": "PHP",
       "level": "Master",
       "keywords": [
-        "Laravel"
+        "Laravel",
+        "Wordpress"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Beginner",
+      "keywords": [
+        "Django",
+        "Shell scripting"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Google",
+      "level": "Master",
+      "keywords": [
+      	"Analytics",
+      	"Data Studio",
+      	"Tag Manager",
+      	"Adwords"
       ]
     }
   ],
