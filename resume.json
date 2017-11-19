@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Johny Serpa",
+    "label": "Web Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfRAAAAJGM2ZjJhYzA3LTdiNWMtNDdhZC05NWFiLTExZmEwNjEwNzE5Yg.jpg",
+    "email": "jserpa.dev@gmail.com",
+    "phone": "(+351) 93 572 82 05",
+    "website": "http://odopeyone.xyz",
+    "summary": "Graduated in Hotel Management, switched career to informatics and web development. After a small (70H) course and an internship @ Ideavity, I decided I needed to get more knowledge in the area and went for graduation in it. Currently in my last year and working full time @ LVEngine, I find myself as a highly motivated professional on the pursuit of good challenges and world changing projects. \nMy interest topics are: linux, javascript, nodejs, python, machine learning, blockchain, data science. \nNot that I know much about all of them, but this are topics that motivate me.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "Porto",
+      "countryCode": "PT",
+      "region": "Porto"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "odopeyone",
+        "url": "https://twitter.com/odopeyone"
+      },
+      {
+        "network": "Github",
+        "username": "johnyserpa",
+        "url": "https://github.com/johnyserpa"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "LVEngine",
+      "position": "Web Developer",
+      "website": "http://lvengine.com",
+      "startDate": "2017-03-08",
+      "endDate": "2018-03-01",
+      "summary": "LVEngine implements e-commerce solutions from the ERP to the Digital Marketing, passing through website design and programming.",
+      "highlights": [
+        "E-commerce websites development with proprietary framework",
+        "E-commerce third party integrations",
+        "Tailored solutions",
+        "Techs: Ionic 3, Angular, Node, PHP, Elastic Search, Linux, PostgreSQL"
+      ]
+    },
+    {
+      "organization": "Nhdesign",
+      "position": "Web Developer",
+      "website": "http://nhdesign.pt/",
+      "startDate": "2016-03-01",
+      "endDate": "2017-02-20",
+      "summary": "Creative design studio. Small team, 2 designers and 1 programmer (me).",
+      "highlights": [
+        "Development of opencart ecommerce stores, client custom business rules and design implementation",
+        "Development of well designed institutional websites and backoffice areas when needed",
+        "Some management of server settings through Cpanel and WHM",
+        "Techs: PHP, Laravel, jQuery, JavaScript, Linux, MySQL"
+      ]
+    },
+    {
+      "organization": "Ideavity",
+      "position": "Trainee Web Developer",
+      "website": "http://ideavity.com/",
+      "startDate": "2015-08-01",
+      "endDate": "2015-08-22",
+      "summary": "Three weeks work in order to help with a tight deadline quizz project for school returns. Mostly frontend.",
+      "highlights": [
+        "HTML implementation from Photoshop layouts",
+        "JavaScript/jQuery code to make the quizz interactive",
+        "Minor PHP code"
+      ]
+    },
+    {
+      "organization": "Ideavity",
+      "position": "Trainee QA Analyst",
+      "website": "http://ideavity.com/",
+      "startDate": "2014-10-01",
+      "endDate": "2015-02-28",
+      "summary": "While trying to learn how to code, Ideavity gave me the opportunity to be inside a tech company helping where I could. Mostly QA work, but also helping with some code.",
+      "highlights": [
+        "Reviewing and testing projects before going to clients",
+        "Helping with HTML, CSS and JavaScript",
+        "Learning on free time"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "MYTO - Mathare Youth Talented Organization - Kenya",
+      "position": "Web Developer",
+      "website": "http://www.mathareyouthtalented.org/",
+      "startDate": "2015-04-07",
+      "endDate": "2017-07-06",
+      "summary": "I worked mainly in the MKI (Miss Kogalo Initiative) project as a project manager with a local age-mate. The project consisted in promoting the youths from the slums and giving them tools for them to develop themselves. It attracted people from all ages with beauty contests and during the contests they would also showcase their talents. We also had people to help improve their skills such as: modeling, public speaking and had open discussion about important issues on their communities.",
+      "highlights": [
+        "Development of initiatives for social inclusion",
+        "Implementation of youth projects",
+        "Helping with communication and marketing",
+        "Development of website for project initiative"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ISTEC - Instituto Superior de Técnologias Avançadas",
+      "area": "Informatics",
+      "studyType": "Degree",
+      "startDate": "2015-10-01",
+      "endDate": "2018-07-01",
+      "gpa": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficiency Level"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Proficiency Level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cryptocurrencies",
+      "keywords": [
+        "Blockchain",
+        "Bitcoin",
+        "Ethereum",
+        "Smart Contracts"
+      ]
+    }
+  ],
+  "references": []
+}
